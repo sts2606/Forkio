@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/vetalkonev/Forkio.git"
   },
-  "author": "",
+  "author": "Stas Petrenko and Vitalyi Konev",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vetalkonev/Forkio/issues"
   },
-  "homepage": "https://github.com/vetalkonev/Forkio#readme",
+  "homepage": "",
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "gulp": "^3.9.1",
